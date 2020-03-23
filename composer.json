@@ -1,0 +1,27 @@
+{
+    "name": "michaelfrank/dynamicphoto",
+    "description": "Dynamic photo package for blog posts and other features, integrating CKEditor Smart WYSIWYG",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Frank",
+            "email": "maickomtutos@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MichaelFrank\\dynamicphoto\\":"src/"
+        }
+    },
+
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MichaelFrank\\dynamicphoto\\dynamicPhotoServiceProvider"
+            ]
+        }
+    }
+}
