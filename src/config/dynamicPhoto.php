@@ -1,6 +1,6 @@
 <?php
 
-namespace MichaelFrank\EditorPost\congif;
+namespace MichaelFrank\dynamicphoto\congif;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
