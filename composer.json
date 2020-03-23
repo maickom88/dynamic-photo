@@ -13,14 +13,14 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "MichaelFrank\\dynamicphoto\\":"src/"
+            "michaelFrank\\dynamicphoto\\":"src/"
         }
     },
 
     "extra": {
         "laravel": {
             "providers": [
-                "MichaelFrank\\dynamicphoto\\dynamicPhotoServiceProvider"
+                "michaelFrank\\dynamicphoto\\dynamicPhotoServiceProvider"
             ]
         }
     }

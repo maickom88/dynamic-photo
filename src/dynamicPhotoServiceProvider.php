@@ -1,6 +1,6 @@
 <?php
 
-namespace MichaelFrank\dynamicphoto;
+namespace michaelFrank\dynamicphoto;
 
 use Illuminate\Support\ServiceProvider;
 
