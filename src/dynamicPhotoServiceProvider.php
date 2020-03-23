@@ -1,10 +1,10 @@
 <?php
 
-namespace MichaelFrank\EditorPost;
+namespace MichaelFrank\dynamicphoto;
 
 use Illuminate\Support\ServiceProvider;
 
-class EditorPostServiceProvider extends ServiceProvider
+class dynamicPhotoServiceProvider extends ServiceProvider
 {
     public function boot()
     {
