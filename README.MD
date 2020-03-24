@@ -8,11 +8,14 @@ Dynamic Photo
 
 Dynamic Photo is a package to assist in integration with CKEditor, a powerful WYSIWYG. With the package it is possible to send photos dynamically to the server and display them.
 
+![](https://media.giphy.com/media/McCGXmHYlFDTux4QYq/giphy.gif)
+
 ## ✔️ Installing Dynamic Photo
 
 #### ❗️ Attention ❗️
 this package is exclusive for Framework [Laravel](https://laravel.com),
 So you will also need [Composer](https://getcomposer.org/).
+
 
 ```bash
 composer require michaelfrank/dynamicphoto
