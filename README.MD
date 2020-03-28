@@ -37,7 +37,6 @@ In your VIEW in the script file, paste!
 
 ```html
 ClassicEditor.create( document.querySelector( '#editor' ), {
-  language: 'pt',
   ckfinder: {
     uploadUrl: '{{$siteRoot}}/api/uploud-photo',
   }
