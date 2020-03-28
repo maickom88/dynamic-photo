@@ -96,6 +96,7 @@ The uploadAction function expects two arguments.
 the first is the request file, ie the image. The second will wait for the path, where 'Album01' will be the path where you will save your image
 
 ==========
+Help me, any value will be great for my work. This is your way of thanking.
+Thanks!
 
-End
-
+[![Paypal Donation](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=maickomtutos%40gmail.com&currency_code=BRL&source=url)
