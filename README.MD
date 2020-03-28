@@ -20,6 +20,13 @@ So you will also need [Composer](https://getcomposer.org/).
 ```bash
 composer require michaelfrank/dynamicphoto
 ```
+...Then publish the provider package.
+
+```bash
+php artisan vendor:publish --tag=config
+```
+
+
 ## ✔️ Instalando CDN CKEditor
 In your VIEW in the script file, paste!
 
